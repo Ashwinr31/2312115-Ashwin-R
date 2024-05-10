@@ -1,0 +1,19 @@
+('luka', 99)
+
+{'james': 95, 'irving': 90, 'Curry': 92, 'kevin': 97}
+
+('kevin', 97)
+
+{'james': 95, 'irving': 90, 'Curry': 92}
+
+('Curry', 92)
+
+{'james': 95, 'irving': 90}
+
+('irving', 90)
+
+{'james': 95}
+
+('james', 95)
+
+{}
